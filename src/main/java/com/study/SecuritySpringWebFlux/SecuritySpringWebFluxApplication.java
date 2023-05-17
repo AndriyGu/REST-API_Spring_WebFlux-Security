@@ -10,4 +10,5 @@ public class SecuritySpringWebFluxApplication {
 		SpringApplication.run(SecuritySpringWebFluxApplication.class, args);
 	}
 
+
 }
